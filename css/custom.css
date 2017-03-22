@@ -1,0 +1,93 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", sans-serif;
+}
+.information{
+	width: 60%;    
+	font-size: 1.2em;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+.play-fair{
+	font-family: 'Playfair Display', serif;
+}
+.information div{
+	    color: #28262c;
+    word-spacing: normal;
+    font-weight: 100;
+    letter-spacing: normal;
+    font-size: 20px;
+}
+.trip-date-1 {
+    margin: 0;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+.margin-top{
+	margin-top: 20px;
+}
+.title{
+	padding: 3px;
+	border-bottom: 1px solid #000;
+	display: inline-table;
+	font-size: 2.1em;
+	 
+}
+.video iframe {
+    left: 0;
+    top: 0;
+    width: 100%;
+        height: 400px;
+}
+.left-subdetail{
+	color: #28262c;
+	font-size: 16px;
+	font-weight: lighter;
+}
+.vide-background{
+	background: #e7e7e7;
+}
+.left-video-detail{
+	padding: 40px 50px;
+}
+.left-subdetail span{
+	margin-left: 7px;
+	padding-left: 7px;
+	border-left: 1px solid #E54D42; 
+}
+.left-video-detail p{
+		font-size: 16px;
+		text-align: left;
+		margin-top: 18px;
+		display: block;
+
+}
+.know-more{    
+	margin-top: 30px;
+    display: block;
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+.know-more:hover{
+	color:#f82d30 }
+.slider-title{
+	font-size: 36px;
+	display: inline-block;
+	border-bottom: 1px solid white;
+	    padding: 5px 10px;
+	        font-family: 'Playfair Display', serif;
+}
+.carousel-caption{
+	top: 60%;
+	    width: 50%;
+    margin: 0 auto;	
+}
+.slider-sub-title{
+	font-size: 16px;
+}
+.slider-cta {
+    margin: 12px 0;
+    display: inline-block;
+}

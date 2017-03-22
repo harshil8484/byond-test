@@ -320,14 +320,20 @@ line-height: 34px;
   color: white;
   border:1px solid #f82d30;
 }
-.active-ctm{
-  background: #f82d30;
-  color: #ffffff;
-  opacity: .8;
-  text-decoration: none;
-  cursor: pointer;
-  margin-right:8px;
+.active-ctm {
+    background: #f82d30;
+    color: #ffffff;
+    opacity: .8;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 auto;
+    /* width: 119px; */
+    display: table;
+    cursor: pointer;
+    /* margin-right: 8px; */
 }
+
 .active-ctm:hover{
   background: #f82d30;
   color: #fffff;
