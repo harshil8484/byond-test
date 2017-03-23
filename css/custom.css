@@ -507,7 +507,7 @@ li.top img {
 	}
 }
 
-@media(max-width:450px){
+@media(max-width:430px){
 
     .turn-off {
     /* display: none; */
@@ -518,5 +518,8 @@ li.top img {
     left: 33%;
     /* right: 42px !important; */
     float: left;
+}
+.video iframe{
+    height: 200px;
 }
 }
