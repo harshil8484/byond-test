@@ -296,6 +296,7 @@ header {
     border-bottom: 1px solid white;
     font-family: 'Playfair Display',serif;
     margin: 0px;
+    color: white !important;
 }
 .trip-date {
     margin: 0;
@@ -319,6 +320,18 @@ line-height: 34px;
   border-radius: 0px;
   color: white;
   border:1px solid #f82d30;
+}
+.btn-bg{
+  background: #f82d30;
+  opacity: 0.8;
+}
+.btn-bg:hover{
+  opacity: 1;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 }
 .active-ctm {
     background: #f82d30;
