@@ -506,3 +506,17 @@ li.top img {
 		width: 100%;
 	}
 }
+
+@media(max-width:450px){
+
+    .turn-off {
+    /* display: none; */
+    display: inline-block;
+    position: relative;
+    right: 0;
+    width: 100%;
+    left: 33%;
+    /* right: 42px !important; */
+    float: left;
+}
+}
